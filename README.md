@@ -1,2 +1,2 @@
 # expr_resolver
-Expression Resolver(Expression resolution using Priority Linked List)
+Expression Resolver(Expression evaluation using Priority Linked List)
