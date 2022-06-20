@@ -259,7 +259,7 @@ int insert(char *str)
               fill(OPERATOR,priority + mapBlocklevel(blocklevel),NULL ,'*');
        } else
        {
-         fill(OPERATOR,priority + blocklevel,NULL, '*' );
+         fill(OPERATOR,priority,NULL, '*' );
        }
        
        return 1;
@@ -272,7 +272,7 @@ int insert(char *str)
               fill(OPERATOR,priority + mapBlocklevel(blocklevel),NULL ,'/');
        } else
        {
-         fill(OPERATOR,priority + blocklevel,NULL, '/' );
+         fill(OPERATOR,priority,NULL, '/' );
        }
        return 1;
    }
@@ -299,7 +299,7 @@ int insert(char *str)
               fill(OPERATOR,priority + mapBlocklevel(blocklevel),NULL ,'-');
            } else
            {
-              fill(OPERATOR,priority + blocklevel,NULL, '-' );
+              fill(OPERATOR,priority,NULL, '-' );
            }
        return 1;
    }
