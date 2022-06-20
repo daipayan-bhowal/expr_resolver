@@ -139,4 +139,3 @@ sum is 7!
 Symbol is 7 priority is 1
 
 Symbol is 7 priority is 1
-
