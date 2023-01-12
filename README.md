@@ -5,7 +5,7 @@ we have 2 version of the same program
 1) Only does arithmetic evaluation, no assembly
 2) Only assembly output operations
  
- For now register storage/temporary variable has been commented out
+ For now there is no register allocation algorithm, manually allocated registers (for assembly output program)
 
 It solves the expression "a+b-c*c-d"
 
