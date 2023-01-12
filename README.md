@@ -16,3 +16,12 @@ Final answer is:-
 
 
 ![alt text](img/P1.jpg)
+![alt text](img/P2.jpg)
+![alt text](img/P3.jpg)
+![alt text](img/P4.jpg)
+![alt text](img/P5.jpg)
+![alt text](img/P6.jpg)
+![alt text](img/P7.jpg)
+![alt text](img/P8.jpg)
+![alt text](img/P9.jpg)
+![alt text](img/P10.jpg)
