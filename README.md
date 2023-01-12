@@ -1,5 +1,9 @@
 # Expression Resolver
 Expression Resolver(Expression evaluation using Priority Linked List)
+
+we have 2 version of the same program
+1) Only does arithmetic evaluation, no assembly
+2) Only assembly output operations
  
  For now register storage/temporary variable has been commented out
 
