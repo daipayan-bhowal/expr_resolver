@@ -7,7 +7,7 @@ we have 2 version of the same program
  
  Note: For now there is no register allocation algorithm, manually allocated registers (for assembly output program)
 
-It solves the expression "a+b-c*c-d"
+It solves the any arithmetic expression example:- "a+b-c*c-d"
 
  For a=9, b=3, c=2 and d=1 so expression becomes as below:-
 9+3-2*2-1
